@@ -1,10 +1,10 @@
 ---
 ## Author
 author:
-  name: Дмитрий Сергеевич Кулябов
-  degrees: DSc
+  name: Симонова Полина Игоревна 
+  degrees: 
   orcid: 0000-0002-0877-7063
-  email: kulyabov-ds@rudn.ru
+  email: 1132246738@rudn.ru
   affiliation:
     - name: Российский университет дружбы народов
       country: Российская Федерация
